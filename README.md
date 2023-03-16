@@ -70,11 +70,11 @@
     -   Drama (4,624)
     -   Thriller/Horror (1,048)
 
-![count of genres](./results/genre_count.png)
+![count of genres](./results/images/genre_count.png)
 -   Action/Adventure as a genre appeared to be the most profitable overall, which is unsurprising given the success of superhero movies and the Marvel Cinematic Universe over the past decade
 -   As seen below, the majority of the top performing films were Action/Adventure
 
-![box office rev](./results/rev_actors.png)
+![box office rev](./results/images/rev_actors.png)
 -   In terms of ratings, critics tended to favour dramas, and audiences tended to give higher scores in general (with the exception of dramas)
 -   The five actors who were associated with the most profitable movies were
     -   Robert Downey Jr (associated with 2.34% of total profits)
@@ -83,11 +83,11 @@
     -   Christian Bale (associated with 1.15% of total profits)
     -   Steve Carell (associated with 1.15% of total profits)
 
-![top percentage of total box office revenue](./results/marketshare%20per%20actor.png)
+![top percentage of total box office revenue](./results/images/marketshare%20per%20actor.png)
 -   These actors are all associated with highly sucessful and profitable series
 -   Leonardo DiCaprio is also associated with the most Academy Award winning & nominated films
 
-![actors in the most award winning/nominated movies](./results/oscars.png)
+![actors in the most award winning/nominated movies](./results/images/oscars.png)
 
 
 ## 5. Modeling
@@ -97,7 +97,7 @@
 -   This was an iterative process, with the scalers, features, and number of features, adjusted for each iteration based on performance
 -   Clusters were then determined by either K-Means, Hierarchical, or DBSCAN, and chosen based off of their best silhouette scores
 -   Comedy worked best with Hierarchical clustering, and the other genres performed best with K-Means
-![clusters](./results/grouped%20clusters.png)
+![clusters](./results/images/grouped%20clusters.png)
 -   Data loss was tried to keep to a minimal, although Action/Adventure suffered a loss of 29%
 -   Silhouette scores were all above a 0.25, which does indicate fairly distinct clusters
 -   Ideally, I would love to get these scores to be above a 0.7, with less than 15% data loss

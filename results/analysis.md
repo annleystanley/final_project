@@ -10,9 +10,9 @@
     -   drama in general rates higher
     -    audience scores tend to be higher for everything except for dramas
 -   which actors in general bring the most profit
-    -   RDJ (11% of profits)
-    -   Chris Pratt (6.5% of profits)
-    -   Jennifer Lawrence 5.6% of profits)
+    -   RDJ
+    -   Chris Pratt
+    -   Jennifer Lawrence
 -   which actors bring the most awards/nominations
     -   Leo brings the most for both
         -   his curse really was real, dude was in so many award winning/nominated things!
